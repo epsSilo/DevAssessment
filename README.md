@@ -2,7 +2,7 @@
 
 1. 	You are given a solution that contains a Blazor Web App with a Customer model class.
 
-	You should fork this project and provide a github link for your solution.
+	You should download this project create your own repository (public or private) and provide a github link for your solution or an invitation in case of a private repository.
 
 	You have to develop 
 
